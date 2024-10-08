@@ -1,2 +1,2 @@
 # passwordGenerator
- Um gerador de senhas seguindo as normas de boas senhas e um verificador de senha para verificar se sua senha está forte
+ A password generator following good password standards and a password checker to verify if your password is strong.
